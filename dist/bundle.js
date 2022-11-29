@@ -1,0 +1,1 @@
+console.log("add"),document.getElementById("ul").innerHTML="<li>d</li><li>ds</li><li>gf</li><li>f</li>",alert("lo paji ho gya");
